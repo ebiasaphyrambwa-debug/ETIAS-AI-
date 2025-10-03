@@ -18,7 +18,7 @@
 ## DEPLOYMENT METHODS
 ---
    ***Fork Repo***
- ***[FORK](https://github.com/ebiasaphy rambwa-debug/ETIAS-AI/fork)***
+ ***[FORK](https://github.com/ebiasaphyrambwa-debug/ETIAS-AI/fork)***
  
     FORK MY REPO TO GAIN FULL ACCESS
 ---
